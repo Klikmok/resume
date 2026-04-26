@@ -35,7 +35,3 @@ Backend Developer (Python/Django)
 - [Fullstack сервис рецептов](https://github.com/Klikmok/foodgram-project-react)
 - [Docker & CI/CD Pipeline](https://github.com/Klikmok/kittygram_final)
 - [Портфолио учебных проектов](https://github.com/Klikmok/python-learning-path)
-
----
-
-*Последнее обновление: $(date +%Y-%m-%d)*
