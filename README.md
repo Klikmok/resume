@@ -25,7 +25,7 @@ Backend Developer (Python/Django)
 
 - **GitHub профиль:** https://github.com/Klikmok
 - **Email:** klikmok@yandex.ru
-- **Телефон:** +7 (982) 103-43-26
+- **Телефон:** +7 (982) 324-39-68
 
 ---
 
